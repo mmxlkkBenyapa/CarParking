@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CarParking</string>
+    <string name="name_text">Name</string>
+    <string name="license_text">License Plate</string>
+    <string name="car_model_text">Car Model</string>
+    <string name="name_text">Name</string>
+    <string name="license_plate_text">License Plate</string>
+    <string name="car_model_text">Car Model</string>
+    <string name="car_parking1">Parking I</string>
+    <string name="car_parking2">Parking II</string>
+    <string name="car_parking3">Parking III</string>
+    <string name="update_button">UPDATE</string>
+    <string name="delete_button">DELETE</string>
+    <string name="car_parking">Car Parking</string>
+</resources>
